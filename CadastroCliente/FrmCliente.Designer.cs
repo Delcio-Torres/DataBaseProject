@@ -1,7 +1,7 @@
 ﻿
 namespace CadastroCliente
 {
-   partial class Form1
+   partial class FrmCliente
    {
       /// <summary>
       /// Required designer variable.
